@@ -5,5 +5,6 @@ def square_array(array)
     squared.push(i**2)
     i++
   end
+end 
   return squared
 end
